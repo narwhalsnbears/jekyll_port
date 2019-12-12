@@ -1,4 +1,4 @@
-## Test
+## Greetings! I'm happy you are here. Let me show you around. ^_^
 
 You can use the [editor on GitHub](https://github.com/narwhalsnbears/jekyll_port/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
