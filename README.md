@@ -1,37 +1,38 @@
-## Greetings! I'm happy you are here. Let me show you around. ^_^
+# Greetings! I'm Michael. ^_^
 
-You can use the [editor on GitHub](https://github.com/narwhalsnbears/jekyll_port/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a freelancer based in the US. You have stumbled upon a minimal Jekyll deploy of my portfolio. I have a career background in **geography and geospatial science and publication writing.** As a full-time freelancer, I can flexibly devote more of my strengths to support clients in the processes of each individual project. It is my joy to you! My services include:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Consulting
+- Project Evaluations of Scope and Parameters
+- Clarifying Goals and Project Lifespan
+- Implementation of Clear Documentation
+- Collaboration with Teams and Management
+- Presentation of Process and Results
+  
+## GIS Analysis and Cartography
+- Spatial Analysis for Geospatial Data
+- Detail-oriented Map Development
+- Presentation and Deliverables of Data Analysis 
+- Reports of Process and Results
+- Workflow automation 
+  
+## Writing & Editing
+- Copywriting and Editing
+- Lead Generation and Content Management
+- Book and Article Proofreading
+- Technical Writing
+- Ghostwriting
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`Other than work, I enjoy exercise and marital arts, interactive art environments, bears, and Dungeons & Dragons.`
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+If you'd like to get in touch about a project, I would love to hear from you and learn more about what you do:
 
-- Bulleted
-- List
+E: hello@michaelnaro.com
 
-1. Numbered
-2. List
+P: +1 720/634/6246
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/narwhalsnbears/jekyll_port/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
