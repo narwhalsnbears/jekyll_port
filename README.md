@@ -24,15 +24,13 @@ I'm a freelancer based in the US. You have stumbled upon a minimal Jekyll deploy
 - Ghostwriting
 
 
-`Other than work, I enjoy exercise and marital arts, interactive art environments, bears, and Dungeons & Dragons.`
+Other than work, I enjoy exercise and marital arts, interactive art environments, bears, and Dungeons & Dragons.
 
 
 If you'd like to get in touch about a project, I would love to hear from you and learn more about what you do:
 
-E: hello@michaelnaro.com
+E: **hello@michaelnaro.com**
 
-P: +1 720/634/6246
+P: **+1 720/634/6246**
 
-
-  
 
